@@ -1,0 +1,6 @@
+Python 3
+package list in requirements.txt
+run as 'python lda.py'
+
+to modify for running with covariance method (part b) edit file to change
+trainLDA parameter to 1 when calling the function (see line 110)
